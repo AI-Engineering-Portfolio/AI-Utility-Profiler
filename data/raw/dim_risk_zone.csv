@@ -1,0 +1,6 @@
+RiskZoneID,ZoneName,FireRiskCategory,WindRiskCategory,VegetationDensityClass
+1,Low Urban,Low,Low,Sparse
+2,Low Rural,Low,Medium,Medium
+3,Moderate Wildland,Medium,Medium,High
+4,High WUI,High,High,High
+5,Extreme Corridor,Extreme,High,VeryHigh

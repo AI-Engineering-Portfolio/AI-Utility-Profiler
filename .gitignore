@@ -11,13 +11,24 @@ __pycache__/
 env/
 venv/
 
-# Data
-data/*.csv
+# Data rules
+
+# Ignore processed, intermediate, or large files
+data/processed/
+data/interim/
+
+# Allow raw synthetic data to be tracked
+!data/raw/
+!data/raw/*.csv
+
+# Allow dictionaries to be tracked
+!data/dictionaries/
+!data/dictionaries/*.csv
+
+# Ignore random exported artifacts (optional)
 data/*.parquet
 data/*.json
-data/raw/
-data/interim/
-data/processed/
+
 
 # Logs
 logs/
