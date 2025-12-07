@@ -1,0 +1,6 @@
+WeatherEventType,Description
+None,No significant weather
+Wind,High winds
+Storm,Thunderstorm
+Snow,Snow / ice
+HeatWave,Extreme heat

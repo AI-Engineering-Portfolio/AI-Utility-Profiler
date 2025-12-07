@@ -1,0 +1,7 @@
+CauseCode,Description
+TREES,Tree or vegetation contact
+EQUIP_FAIL,Equipment failure
+ANIMALS,Animal interference
+WEATHER,Weather-related
+FIRE_PREVENT,PSPS / fire prevention
+OTHER,Other / unknown

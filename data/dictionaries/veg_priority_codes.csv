@@ -1,0 +1,5 @@
+PriorityCode,Description
+P1,Immediate hazard
+P2,High priority
+P3,Routine
+P4,Low / monitor
