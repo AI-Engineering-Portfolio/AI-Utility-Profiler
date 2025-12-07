@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv/
+env/
+venv/
+
+# Data
+data/*.csv
+data/*.parquet
+data/*.json
+data/raw/
+data/interim/
+data/processed/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db

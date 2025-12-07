@@ -1,0 +1,14 @@
+project_name: "AI Utility Profiler"
+environment: "development"
+
+data_paths:
+  raw: "data/raw/"
+  interim: "data/interim/"
+  processed: "data/processed/"
+
+model_paths:
+  artifacts: "src/models/artifacts/"
+
+ingestion:
+  source_type: "csv"
+  batch_size: 5000
